@@ -15,5 +15,6 @@ public class NhanVien {
         System.out.println("Tên: " + name);
         System.out.println("Giới tính: " + gender);
         System.out.println("Tuổi: " + age);
+
     }
 }
