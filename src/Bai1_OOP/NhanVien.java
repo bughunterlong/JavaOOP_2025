@@ -4,7 +4,7 @@ public class NhanVien {
     String name;
     int age;
     String gender;
-    String birthday;
+    String address;
 
     // Tạo hàm constructor có tên trùng với tên class
     public NhanVien(String name, String gender, int age){
